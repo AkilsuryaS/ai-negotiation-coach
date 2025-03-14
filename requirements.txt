@@ -1,0 +1,13 @@
+streamlit
+openai
+numpy
+pandas
+matplotlib
+scipy
+sounddevice
+soundfile
+python-dotenv
+gtts
+streamlit-lottie
+fpdf
+requests
